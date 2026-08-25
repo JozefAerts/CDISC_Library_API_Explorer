@@ -7,5 +7,5 @@ If the software cannot find such a file, it will add a field in the gUI for ente
 
 The software is very self-explaining, no need for an extensive manual ...
 
-Primary goal of this software is to serve users that want to use the CDISC Library over the API, but do not know where and how to begin,
+Primary goal of this software is to serve users who want to use the CDISC Library over the API, but do not know where and how to begin,
 and/or not very confident to write software that uses RESTful web services.
